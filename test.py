@@ -13,7 +13,7 @@ print dfvisit.isnull().sum()
 SrOwner=dfvisit.Owner
 SrOwner.value_counts().plot()
 #plt.show()
-#print SrOwner.size
+#print SrOwner.sizeoooooooo
 
 SrPotential=dfvisit['Sales Potential']
 #print type(SrPotential)
